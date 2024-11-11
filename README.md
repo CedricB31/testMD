@@ -23,8 +23,6 @@ C -->|Two| E[Result 2]
 
 
 
-
-
 ```
 stateDiagram-v2
 [*] --> Still
