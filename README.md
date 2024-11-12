@@ -14,6 +14,7 @@ Validated by Cedric 3
 TEST CEDRIC
 
 1
+2
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
