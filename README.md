@@ -25,6 +25,10 @@ Edit by CEDRIC 4
 2
 3
 
+4
+5
+6
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
