@@ -6,6 +6,8 @@ flowchart LR
 Edit by Ludo
 Validated by Cedric
 
+Edit by Ludo 2
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
