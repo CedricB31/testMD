@@ -8,6 +8,9 @@ Validated by Cedric
 
 Edit by Ludo 2
 
+Edit by Ludo 3
+Validated by Cedric 3
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
