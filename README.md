@@ -4,6 +4,7 @@
 flowchart LR
 
 Edit by Ludo
+Validated by Cedric
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
