@@ -13,9 +13,15 @@ Validated by Cedric 3
 
 TEST CEDRIC
 
+Edit by Ludo 4
+
 1
 2
 3
+
+4
+5
+6
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
