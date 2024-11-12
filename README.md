@@ -13,6 +13,8 @@ Validated by Cedric 3
 
 TEST CEDRIC
 
+1
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
