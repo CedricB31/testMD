@@ -29,6 +29,11 @@ Edit by CEDRIC 4
 5
 6
 
+Edit by Ludo 10
+
+11
+12
+
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
